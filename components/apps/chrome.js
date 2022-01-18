@@ -77,7 +77,7 @@ export class Chrome extends Component {
     checkValues() {
         return(
             <div>
-                <p>Check Values singles </p>
+                <p>Check Values single</p>
             </div>
         )
     }
