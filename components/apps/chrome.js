@@ -74,6 +74,14 @@ export class Chrome extends Component {
         );
     }
 
+    checkValues() {
+        return(
+            <div>
+                <p>Check Values</p>
+            </div>
+        )
+    }
+
     render() {
         return (
             <div className="h-full w-full flex flex-col bg-ub-cool-grey">
